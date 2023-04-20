@@ -8,7 +8,7 @@ public class Collection_list2 {
 
 	public static void main(String[] args) {
 		List<Integer> numeros = new ArrayList<Integer>();
-		int num,x;
+		int num;
 		
 		numeros.add(2);
 		numeros.add(5);
